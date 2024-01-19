@@ -1,1 +1,6 @@
 <Write you solution here>
+Na zaklade prilozenych logov a obrazkov usudzujem, ze element button s textom "souhlasim"
+nebol viditelny na stranke a z toho dovodu nebolo mozne nan ani kliknut a to aj po vykonani:
+"Key shortcut 'BaseKey.LEFT_CONTROL.END', skip_waiting: True". 
+Element sa  nachadzal este nizsie na stranke a je potrebne 
+pridat skrolovanie smerom nadol.

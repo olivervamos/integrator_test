@@ -2,6 +2,7 @@
 
 Napíš Python script ktorý za pomoci balíčka Aiviro, načíta a nájde niekoĺko základných hodnôť v priloženom PDF dokumente.
 A následne tieto údaje vloží do Todo listu na stránke https://todomvc.com/examples/react/#/.
+Pouzijem https://todomvc.com/examples/react/dist/
 
 Z dokumentu vyčítaj nasledujúce údaje:
  * dátum faktury (Invoice date)
